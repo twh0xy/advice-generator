@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  font-family: 'Karla', Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  color: hsl(0, 0%, 100%);
+}
